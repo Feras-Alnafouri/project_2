@@ -761,16 +761,16 @@ body{
 }
 
 .div_3_image_1{
-    background-image: url(images/gameboy.jpg);
+    background-image: url(../images/gameboy.jpg);
 }
 .div_3_image_2{
-    background-image: url(images/walkman-removebg-preview.png);
+    background-image: url(../images/walkman-removebg-preview.png);
 }
 .div_3_image_3{
-    background-image: url(images/Kodak-FunSaver-Disposable-1000px.png);
+    background-image: url(../images/Kodak-FunSaver-Disposable-1000px.png);
 }
 .div_3_image_4{
-    background-image: url(images/nokia.jpg);
+    background-image: url(../images/nokia.jpg);
 }
 
 .card_3{
@@ -808,19 +808,19 @@ body{
 
 
 .s3_1{
-    background-image: url(images/games.png);
+    background-image: url(../images/games.png);
 }
 
 .s3_2{
-    background-image: url(images/cass.png);
+    background-image: url(../images/cass.png);
 }
 
 .s3_3{
-    background-image: url(images/filll.png);
+    background-image: url(../images/filll.png);
 }
 
 .s3_4{
-    background-image: url(images/pho.png);
+    background-image: url(../images/pho.png);
 }
 
 
